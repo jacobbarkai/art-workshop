@@ -2,8 +2,6 @@ torch
 torchvision
 transformers
 Pillow
-requests
-scikit-learn
 numpy<2.0.0
 adversarial-robustness-toolbox
 matplotlib
